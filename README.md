@@ -1,2 +1,1 @@
-# windows
-Windows OS
+# Windows OS
